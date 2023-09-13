@@ -34,6 +34,7 @@ This is a web based application developed for kovid .
 
 
 
+![image](https://github.com/jayasreek2003/FRT-project/assets/132218255/055331a7-823b-44aa-b625-52755b4a2ef5)
 
 
 
@@ -52,6 +53,13 @@ This is a web based application developed for kovid .
 
 
 
+
+![image](https://github.com/jayasreek2003/FRT-project/assets/132218255/c557b229-69be-48d3-b11b-362a04aabeba)
+
+
+
+
+
 ### Contact page -
 
 
@@ -62,12 +70,21 @@ This is a web based application developed for kovid .
 
 
 
+![image](https://github.com/jayasreek2003/FRT-project/assets/132218255/315ac5bb-454c-427c-a384-3e1510467ed8)
+
+
+
+
 ### Service Page -
 
 
 
 
 ![Screenshot 2023-09-12 212325](https://github.com/jayasreek2003/FRT-project/assets/132218255/7faed668-5bbe-48ca-8987-02ce4ae90365)
+
+
+![image](https://github.com/jayasreek2003/FRT-project/assets/132218255/41ce52dc-6f65-4d94-af1f-bfea62cf74be)
+
 
 
 ### Healthbot Page -
