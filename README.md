@@ -9,7 +9,10 @@ This is a web based application developed for kovid .
 *Project Link* - https://jayasreek2003.github.io/FRT-project/index.html
 
 
-*Demo Video* -  
+*Demo Video* -  https://drive.google.com/file/d/1zXPfTaLDFk2cj6rtoASuSx9UnfeI29kg/view?usp=sharing
+
+
+
 
 
 # AZURE TECHNOLOGIES USED FOR PROJECT :
